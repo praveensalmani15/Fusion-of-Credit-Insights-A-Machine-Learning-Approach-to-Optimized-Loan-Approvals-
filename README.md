@@ -1,0 +1,2 @@
+# Fusion-of-Credit-Insights-A-Machine-Learning-Approach-to-Optimized-Loan-Approvals-
+In the highly competitive financial sector, banks are under constant pressure to make prompt and accurate lending decisions to minimize risks and enhance profitability.  The primary challenge is to accurately predict loan approval outcomes in spite of the  complexity of applicants' financial histories and diverse credit behaviors.
